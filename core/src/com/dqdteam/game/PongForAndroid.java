@@ -16,7 +16,7 @@ import aurelienribon.tweenengine.TweenManager;
 
 
 public class PongForAndroid extends Game {
-    public static final int WIDTH=1024,HEIGHT=768;
+    public static final int WIDTH=800,HEIGHT=480;
     public SpriteBatch batch;
     public Screen mainMenu;
     public PongBoard pongBoard;
