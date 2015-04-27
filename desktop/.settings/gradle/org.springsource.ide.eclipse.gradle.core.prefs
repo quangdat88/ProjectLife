@@ -1,3 +1,4 @@
 #org.springsource.ide.eclipse.gradle.core.preferences.GradleProjectPreferences
-#Mon Apr 27 22:32:15 ICT 2015
+#Mon Apr 27 23:12:16 ICT 2015
+org.springsource.ide.eclipse.gradle.linkedresources=assets/;
 org.springsource.ide.eclipse.gradle.rootprojectloc=..

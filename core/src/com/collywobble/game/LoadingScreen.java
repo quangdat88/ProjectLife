@@ -68,7 +68,7 @@ public class LoadingScreen implements Screen {
     private void setupAssetManager() {
         game.assetManager.load("uiskin.atlas", TextureAtlas.class);
         game.assetManager.load("ping.wav", Sound.class);
-        game.assetManager.load("recall_of_the_shadows.mp3", Music.class);
+        //game.assetManager.load("recall_of_the_shadows.mp3", Music.class);
         game.assetManager.load("8bit_airship.ogg", Music.class);
         game.titleStyle = new LabelStyle(getTitleFont(), Color.WHITE);
         game.ballImage = makeRectImage(12, 12, Color.WHITE);
