@@ -1,10 +1,10 @@
-package com.collywobble.game.android;
+package com.dqdteam.game.android;
 
 import android.os.Bundle;
 
 import com.badlogic.gdx.backends.android.AndroidApplication;
 import com.badlogic.gdx.backends.android.AndroidApplicationConfiguration;
-import com.collywobble.game.PongForAndroid;
+import com.dqdteam.game.PongForAndroid;
 
 public class AndroidLauncher extends AndroidApplication {
 	@Override

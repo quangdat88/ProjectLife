@@ -14,7 +14,7 @@
         android:label="@string/app_name"
         android:theme="@style/GdxTheme" >
         <activity
-            android:name=".AndroidLauncher"
+            android:name="com.dqdteam.game.android.AndroidLauncher"
             android:label="@string/app_name" 
             android:screenOrientation="landscape">
             <intent-filter>

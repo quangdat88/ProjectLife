@@ -1,4 +1,4 @@
-package com.collywobble.game;
+package com.dqdteam.game;
 
 import com.badlogic.gdx.Game;
 import com.badlogic.gdx.Screen;
