@@ -14,7 +14,7 @@ import com.badlogic.gdx.scenes.scene2d.ui.Table;
 import aurelienribon.tweenengine.Tween;
 import aurelienribon.tweenengine.TweenManager;
 
-
+//Oke
 public class PongForAndroid extends Game {
     public static final int WIDTH=800,HEIGHT=480;
     public SpriteBatch batch;
