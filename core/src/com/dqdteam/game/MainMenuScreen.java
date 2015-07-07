@@ -96,6 +96,7 @@ public class MainMenuScreen implements Screen {
         normalUpdate(delta);
     }
 
+    
     private void normalUpdate(float delta) {
         game.tweenManager.update(delta);
         updateBallMovement(delta);
