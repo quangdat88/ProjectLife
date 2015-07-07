@@ -12,6 +12,5 @@ public class DesktopLauncher {
         config.height = PongForAndroid.HEIGHT;
         config.useGL30 = true;
         new LwjglApplication(new PongForAndroid(), config);
-
     }
 }
