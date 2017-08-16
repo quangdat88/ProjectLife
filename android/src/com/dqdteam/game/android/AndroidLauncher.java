@@ -4,7 +4,7 @@ import android.os.Bundle;
 
 import com.badlogic.gdx.backends.android.AndroidApplication;
 import com.badlogic.gdx.backends.android.AndroidApplicationConfiguration;
-import com.dqdteam.game.PongForAndroid;
+import com.dqdteam.game.MonsterPong;
 
 public class AndroidLauncher extends AndroidApplication {
 	@Override
@@ -13,6 +13,6 @@ public class AndroidLauncher extends AndroidApplication {
 		AndroidApplicationConfiguration config = new AndroidApplicationConfiguration();
         config.useImmersiveMode = true;
 
-		initialize(new PongForAndroid(), config);
+		initialize(new MonsterPong(320,480), config);
 	}
 }
